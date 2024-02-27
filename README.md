@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Web Developement, Core Java, Spring boot, React.js, Angular**
+- 💬 Ask me about **Web Developement, Core Java, Javascript, Spring boot, React.js**
 
 - 📫 How to reach me **tyash1519@gmail.com**
 
