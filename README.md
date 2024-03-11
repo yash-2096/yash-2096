@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm YASH TIWARI</h1>
 <h3 align="center">Enthusiastic and Curious Software Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-2096" alt="yash-2096" /></a> </p>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 - 🌱 I’m currently learning **Angular**
 
